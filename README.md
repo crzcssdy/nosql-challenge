@@ -2,7 +2,8 @@
 
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
 
-### Notice to Graders: Please note that I worked with a couple of other classmates to troubleshoot and debug certain issues I encountered when completing this challenge. Additionally, I used ChatGPT to explain and provide examples on how to convert a few lines of code from String to Decimal.
+### Notice to Graders: 
+Please note that I worked with a couple of other classmates to troubleshoot and debug certain issues I encountered when completing this challenge. Additionally, I used ChatGPT to explain and provide examples on how to convert a few lines of code from String to Decimal.
 
 
 ## Part 1: Database and Jupyter Notebook Set Up
